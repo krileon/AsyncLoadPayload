@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "AsyncLoadPayload",
+	"Description": "Adds async asset loading with support for a payload",
+	"Category": "Other",
+	"CreatedBy": "Krileon",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EngineVersion": "5.8.0",
+	"CanContainContent": false,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "AsyncLoadPayload",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
